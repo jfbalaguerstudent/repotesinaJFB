@@ -1,0 +1,2 @@
+# Reinforcement Learning para la optimización de sistemas basados en energía marina
+En este repositorio se encuentra el material referenciado en la Tesina de Grado de Juan Facundo Balaguer de la carrera de Ingeniería Electrónica de la Facultad de Ingeniería de la Universidad Nacional de La Plata. La misma se titula "Reinforcement Learning para la optimización de sistemas basados en energía marina".
